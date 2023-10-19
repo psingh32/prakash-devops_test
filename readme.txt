@@ -1,0 +1,1 @@
+The current source code release is version 2.42.0. If you want the newer version, you can build it from the source code.
